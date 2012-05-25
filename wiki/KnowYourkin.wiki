@@ -1,14 +1,5 @@
-#summary One-sentence summary of this page.
+#summary One-sentence summary of this page
 
 = Introduction =
 
-This is the product by knowledgekin.com. KnowYourKin is a tool that helps you extract and organize your Linkedin professional information to facilitate strategic decision making.
-
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+This is the product by knowledgekin.com. KnowYourKin is a tool that helps you to extract and organize your Linkedin professional information to facilitate strategic decision making.
